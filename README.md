@@ -16,8 +16,16 @@
 
 <h3 align="left">Github Repositories</h3>
 
- <h3 align="left">Pac Man exercise</h3>
+ <h3 align="left">Pac Man Exercise</h3>
  
 <p align="left">https://github.com/JCFAR/PacMen-Exercise</p>
+
+<h3 align="left">Eyes Exercise</h3>
+
+<p align="left">https://github.com/JCFAR/Eyes</p>
+
+<h3 align="left">Real Time Bus Tracker Exercise</h3>
+
+<p align="left">https://github.com/JCFAR/Real-Time-Bus-Tracker</p>
  
 
